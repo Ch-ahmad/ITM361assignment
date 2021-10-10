@@ -6,6 +6,7 @@
      of your `line-height` (in pixels).
   3. Add `class="g"` to your `<html>` tag to display the grid.
  */
+ */
 
 .g body { position: relative; }
 
